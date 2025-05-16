@@ -45,7 +45,7 @@ Run the test harness against all traces
 ./tester linear-input
 ./tester random-input
 
-Techniques & Skills Learned
+# Techniques & Skills Learned
 
 Low-Level Systems Programming
 
