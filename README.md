@@ -1,4 +1,4 @@
-# Disk-Linearization
+# JBOD Storage Emulator & MDADM Linear Device
 JBOD Storage Emulator & MDADM Linear Device
 
 This project implements a storage emulator in C, providing a Just a Bunch Of Disks (JBOD) driver, an MDADM-style linear device layer, an LRU block cache, and a networked client interface. It includes a test harness that replays I/O traces to validate functional correctness and performance.
