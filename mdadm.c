@@ -202,21 +202,3 @@ int mdadm_write(uint32_t addr, uint32_t len, const uint8_t *buf) {
 }
 
 
-/*CWD /home/harveyb/CMPSC311/sp25-lab4-Navinn88 */
-/*CWD /home/harveyb/CMPSC311/sp25-lab4-Navinn88 */
-/*CWD /home/harveyb/CMPSC311/sp25-lab4-Navinn88 */
-/*CWD /home/harveyb/CMPSC311/sp25-lab4-Navinn88 */
-/*CWD /home/harveyb/CMPSC311/sp25-lab4-Navinn88 */
-/*CWD /home/harveyb/CMPSC311/sp25-lab4-Navinn88 */
-/*CWD /home/harveyb/CMPSC311/sp25-lab4-Navinn88 */
-/*CWD /home/harveyb/CMPSC311/sp25-lab4-Navinn88 */
-/*CWD /home/harveyb/CMPSC311/sp25-lab4-Navinn88 */
-/*CWD /home/harveyb/CMPSC311/sp25-lab4-Navinn88 */
-/*CWD /home/harveyb/CMPSC311/sp25-lab4-Navinn88 */
-/*CWD /home/harveyb/CMPSC311/sp25-lab4-Navinn88 */
-/*CWD /home/harveyb/CMPSC311/sp25-lab4-Navinn88 */
-/*CWD /home/harveyb/CMPSC311/sp25-lab4-Navinn88 */
-/*CWD /home/harveyb/CMPSC311/sp25-lab4-Navinn88 */
-/*CWD /home/harveyb/CMPSC311/sp25-lab4-Navinn88 */
-/*CWD /home/harveyb/CMPSC311/sp25-lab4-Navinn88 */
-/*CWD /home/harveyb/CMPSC311/sp25-lab4-Navinn88 */
